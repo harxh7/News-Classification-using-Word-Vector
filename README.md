@@ -25,6 +25,7 @@ The dataset used for this project includes:
 * `category` — label indicating whether the news is *fake* or *real*
 
 You must include your dataset file (e.g., `fake_real_news.csv`) in the repository or specify its location.
+I used kaggle to get the dataset you can also use kaggle for the same.
 
 ---
 
